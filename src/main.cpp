@@ -10,7 +10,7 @@ const char* ssid = "Wokwi-GUEST";        // Wi-Fi SSID
 const char* password = ""; // Wi-Fi password
 
 // Weather API details
-const char* apiKey = "5dc65c5148758815c4e8e8bb35052541";   // Weather API Key
+const char* apiKey = "weather-api-key";   
 const char* server = "http://api.openweathermap.org/data/2.5/weather";
 
 String city = ""; // Dynamic city input
