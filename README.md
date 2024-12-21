@@ -2,9 +2,9 @@
 ESP32 based Weather Station
 
 This project is a simple and interactive weather station based on the ESP32 microcontroller. It allows users to input the name of a city, fetches real-time weather data using a weather API, and displays the following information on an I2C LCD screen:  
-- Temperature**  
-- Humidity**  
-- Weather Description**  
+- Temperature
+- Humidity
+- Weather Description
 
 
 
